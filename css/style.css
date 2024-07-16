@@ -1,0 +1,16 @@
+body{
+    padding-top: 60px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    margin: 20px;
+}
+label {
+    display: block;
+}
+
+li {
+    list-style-type: none;
+}
